@@ -1,6 +1,6 @@
 # 📦 Project Name
 
-> Image filtering in image processing.
+> Perl demos.
 
 ---
 
@@ -14,21 +14,20 @@
     - [Prerequisites](#prerequisites)
     - [Source](#source)
     - [Usage](#usage)
-    - [Reference](#reference)
 
 ---
 
 ## 📝 About
 
-> This is a simple tool to filter image by many types.
+> Small demos for Perl programming.
 
 ---
 
 ## ✨ Features
 
-- ✅ Add noise with density (Gaussian, Poisson, Salt & Pepper, Speckle)
-- ✅ Noise removal filter by size
-- ✅ Enhancement
+- ✅ Analyze unit test report using regex
+- ✅ Find specific in current folder recursively
+- ✅ Fundamental concepts
 
 ---
 
@@ -37,21 +36,14 @@
 ### Prerequisites
 
 - List software dependencies or system requirements here:
-  - MATLAB
+  - Perl
+  - VSCode
 
 ### Source
 
-- *.fig: design GUI
-- *.m: main app
+- *.pl: main program
+- *.txt, *.c: resources
 
 ### Usage
 
-- Open file *.m in MATLAB
-- Change folder to location containing source code
-- Run
-- When app window opens, choose image file first
-- Apply custom image filters (fill mandatory parameters) and see results 
-
-### Reference
-
-- 
+- Run program in VSCode workspace
